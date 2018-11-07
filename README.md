@@ -20,4 +20,4 @@ The similar behaviour of the graphs of motors of different specifications leads 
 * Recreate the function in arudino.
 
 ### Future work
-Make polynomial regression compatible with arduino
+Make polynomial regression compatible with arduino.
